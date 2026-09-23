@@ -1,0 +1,6 @@
+# Make GitHub recognize Compose files as Docker
+docker-compose.yml linguist-language=Dockerfile
+docker-compose.yaml linguist-language=Dockerfile
+
+# Mark the Dockerfile correctly
+Dockerfile linguist-language=Dockerfile
